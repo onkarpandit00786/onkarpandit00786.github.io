@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dec61a1a-c3e9-4801-b703-683b3008ec95" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_publications/2017-07-30-paper-title-number-1.md" afterPath="$PROJECT_DIR$/_publications/2017-07-30-paper-title-number-1.md" />
-      <change beforePath="$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md" afterPath="$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md" />
-      <change beforePath="$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md" afterPath="$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md" />
+      <change beforePath="$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md" afterPath="$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md" />
+      <change beforePath="$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md" afterPath="$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,18 +28,8 @@
       <file leaf-file-name="2017-07-30-paper-title-number-1.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_publications/2017-07-30-paper-title-number-1.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-07-17-paper-title-number-3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,8 +38,18 @@
       <file leaf-file-name="2017-11-13-paper-title-number-2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="76" lean-forward="true" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-07-17-paper-title-number-3.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,9 +82,9 @@
         <option value="$PROJECT_DIR$/_publications/2017-30-07-paper-title-number-1.md" />
         <option value="$PROJECT_DIR$/_publications/2018-17-07-paper-title-number-3.md" />
         <option value="$PROJECT_DIR$/_publications/2017-13-11-paper-title-number-2.md" />
+        <option value="$PROJECT_DIR$/_publications/2017-07-30-paper-title-number-1.md" />
         <option value="$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md" />
         <option value="$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md" />
-        <option value="$PROJECT_DIR$/_publications/2017-07-30-paper-title-number-1.md" />
       </list>
     </option>
   </component>
@@ -262,24 +262,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2018-07-17-paper-title-number-3.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2017-11-13-paper-title-number-2.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="76" lean-forward="true" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2017-07-30-paper-title-number-1.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>

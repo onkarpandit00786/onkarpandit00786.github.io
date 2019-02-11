@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Please find pdf format [here](http://onkarpandit00786.github.io/files/cv.pdf)
 
 

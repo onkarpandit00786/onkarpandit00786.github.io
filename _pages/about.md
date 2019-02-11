@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a doctoral student (Dec.2017-present) at [Magent](https://team.inria.fr/magnet/) team at INRIA, Lille, France. My advisors are [Dr. Pascal Denis](http://researchers.lille.inria.fr/pdenis/) and [Prof. Liva Ralaivola](http://pageperso.lif.univ-mrs.fr/~liva.ralaivola/). I work on Natural Language Processing (NLP), Mahcine Learning and Deep Learning. Focus of my research work is structured linguistic prediction specifically temporal information extraction from text.
+Hi! I am a doctoral student (Dec.2017-present) at [Magnet](https://team.inria.fr/magnet/) team at INRIA, Lille, France. My advisors are [Dr. Pascal Denis](http://researchers.lille.inria.fr/pdenis/) and [Prof. Liva Ralaivola](http://pageperso.lif.univ-mrs.fr/~liva.ralaivola/). I work on Natural Language Processing (NLP), Mahcine Learning and Deep Learning. Focus of my research work is structured linguistic prediction specifically temporal information extraction from text.
 
 Prior to joining doctoral program, I worked as Project Scientist (July'16-Nov.'17) under guidance of [Prof. Utpal Garain](https://www.isical.ac.in/~utpal/) at his Natural Language Processing lab at Indian Statistical Institute, Kolkata, India. Their, I worked mainly on Biomedical NLP concentrating on Biomedical entity recognition.
 
